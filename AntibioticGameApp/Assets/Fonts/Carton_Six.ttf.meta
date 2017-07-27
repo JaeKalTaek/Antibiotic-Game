@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a653db8740b5ee74da0ef9c616b5f5a4
+timeCreated: 1500902357
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Carton Six
+  fontNames:
+  - Carton Six
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
