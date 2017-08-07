@@ -1,0 +1,21 @@
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<xsd:element nillable="true" name="Diagnostics">
+		<xsd:complexType>
+			<xsd:sequence minOccurs="0">
+				<xsd:element minOccurs="0" maxOccurs="unbounded" nillable="true" name="Diagnostic" form="unqualified">
+					<xsd:complexType>
+						<xsd:sequence minOccurs="0">
+							<xsd:element minOccurs="0" nillable="true" type="xsd:string" name="Background" form="unqualified"></xsd:element>
+							<xsd:element minOccurs="0" nillable="true" type="xsd:string" name="Bacteria" form="unqualified"></xsd:element>
+							<xsd:element minOccurs="0" nillable="true" type="xsd:string" name="Resistance" form="unqualified"></xsd:element>
+							<xsd:element minOccurs="0" nillable="true" type="xsd:string" name="Site" form="unqualified"></xsd:element>
+							<xsd:element minOccurs="0" nillable="true" type="xsd:string" name="Antibiotic" form="unqualified"></xsd:element>
+							<xsd:element minOccurs="0" nillable="true" type="xsd:string" name="Value" form="unqualified"></xsd:element>
+							<xsd:element minOccurs="0" nillable="true" type="xsd:string" name="Référence" form="unqualified"></xsd:element>
+						</xsd:sequence>
+					</xsd:complexType>
+				</xsd:element>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+</xsd:schema>
