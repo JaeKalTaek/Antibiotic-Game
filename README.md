@@ -33,21 +33,9 @@ The game was designed as part of the CRI Labs Summer School 2017.
 
 Students : 
 
-Julien Alessandri
-
-June Vergé
-
-Haddadi Soumaya 
-
-Benjamin Robcis
-
-Birette Flavien
+Julien Alessandri, June Vergé, Haddadi Soumaya, Benjamin Robcis, Birette Flavien
 
 
 Mentors :
 
-Abbara Salam
-
-Luong Nguyen Liem Binh
-
-De Villepin Laëtitia
+Abbara Salam, Luong Nguyen Liem Binh, De Villepin Laëtitia
