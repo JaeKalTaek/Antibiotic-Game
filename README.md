@@ -31,14 +31,23 @@ We ended up solving this problem by sitting down and playing the game with a men
 
 The game was designed as part of the CRI Labs Summer School 2017.
 
-Students :
+Students : 
+
 Julien Alessandri
+
 June Vergé
+
 Haddadi Soumaya 
+
 Benjamin Robcis
+
 Birette Flavien
 
+
 Mentors :
+
 Abbara Salam
+
 Luong Nguyen Liem Binh
+
 De Villepin Laëtitia
